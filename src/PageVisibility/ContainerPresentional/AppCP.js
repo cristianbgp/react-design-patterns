@@ -4,7 +4,7 @@ import PageVisibility from "./containers/PageVisibility";
 function AppCP() {
   return (
     <>
-      <h1>Learning different React Design Patterns</h1>
+      <h1>Using Components and Presentational</h1>
       <PageVisibility />
     </>
   );

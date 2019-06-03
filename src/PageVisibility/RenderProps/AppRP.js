@@ -4,7 +4,7 @@ import PageVisibility from "./PageVisibility";
 function AppRP() {
   return (
     <>
-      <h1>Learning different React Design Patterns</h1>
+      <h1>Using Render Props</h1>
       <PageVisibility
         render={status => {
           return (
