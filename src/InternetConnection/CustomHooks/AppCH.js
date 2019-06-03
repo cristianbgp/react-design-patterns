@@ -1,5 +1,5 @@
 import React from "react";
-import useInternetConnection from "./user-internet-connection";
+import useInternetConnection from "./use-internet-connection";
 
 function AppCH() {
   const status = useInternetConnection();
