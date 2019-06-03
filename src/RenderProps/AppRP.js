@@ -1,7 +1,7 @@
 import React from "react";
 import PageVisibility from "./PageVisibility";
 
-function App() {
+function AppRP() {
   return (
     <>
       <h1>Learning different React Design Patterns</h1>
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default AppRP;
