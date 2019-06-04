@@ -17,11 +17,18 @@ import { Global } from "@emotion/core";
 // import App from "./InternetConnection/HoC/AppHoC"; // High order Components
 
 //SCROLL POSITION
-import App from "./ScrollPosition/CustomHooks/AppCH"; // Custom Hooks
+// import App from "./ScrollPosition/CustomHooks/AppCH"; // Custom Hooks
 // import App from "./ScrollPosition/RenderProps/AppRP"; // Render Props
 // import App from "./ScrollPosition/FunctionChild/AppFC"; // Function as children
 // import App from "./ScrollPosition/HoC/AppHoC"; // High order Components
 // import App from "./ScrollPosition/ComponentPresentational/AppCP"; // Component & Presentational
+
+//MATCH MEDIA
+import App from "./MatchMedia/CustomHooks/AppCH";
+// import App from "./MatchMedia/RenderProps/AppRP";
+// import App from "./MatchMedia/FunctionChild/AppFC";
+// import App from "./MatchMedia/HoC/AppHoC";
+// import App from "./MatchMedia/ContainerPresentational/AppCP";
 
 render(
   <>
