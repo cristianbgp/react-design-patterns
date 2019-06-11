@@ -10,7 +10,7 @@ import { Global } from "@emotion/core";
 // import App from "./PageVisibility/CustomHooks/AppCH"; // Custom Hooks
 
 //INTERNET CONNECTION
-// import App from "./InternetConnection/CustomHooks/AppCH"; // Custom Hooks
+import App from "./InternetConnection/CustomHooks/AppCH"; // Custom Hooks
 // import App from "./InternetConnection/ContainerPresentational/AppCP"; // Component & Presentional
 // import App from "./InternetConnection/RenderProps/AppRP"; // Render Props
 // import App from "./InternetConnection/FunctionChild/AppFC"; // Function as children
@@ -24,7 +24,7 @@ import { Global } from "@emotion/core";
 // import App from "./ScrollPosition/ComponentPresentational/AppCP"; // Component & Presentational
 
 //MATCH MEDIA
-import App from "./MatchMedia/CustomHooks/AppCH";
+// import App from "./MatchMedia/CustomHooks/AppCH";
 // import App from "./MatchMedia/RenderProps/AppRP";
 // import App from "./MatchMedia/FunctionChild/AppFC";
 // import App from "./MatchMedia/HoC/AppHoC";

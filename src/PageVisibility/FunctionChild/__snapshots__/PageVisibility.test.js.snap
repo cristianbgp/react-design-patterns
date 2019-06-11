@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Visibility with function as children 1`] = `
+<DocumentFragment>
+  <h1>
+    Using Function as children
+  </h1>
+  <p>
+    Page Visibility: 
+    <span>
+      true
+    </span>
+  </p>
+</DocumentFragment>
+`;

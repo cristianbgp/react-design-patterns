@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page visibility with custom hooks 1`] = `
+<DocumentFragment>
+  <h1>
+    Using Custom Hooks
+  </h1>
+  <p>
+    Page Visibility: 
+    <span>
+      true
+    </span>
+  </p>
+</DocumentFragment>
+`;

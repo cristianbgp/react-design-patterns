@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Visibility with HoC 1`] = `
+<DocumentFragment>
+  <h1>
+    Using High order Components
+  </h1>
+  <p>
+    Page Visibility: 
+    <span>
+      true
+    </span>
+  </p>
+</DocumentFragment>
+`;

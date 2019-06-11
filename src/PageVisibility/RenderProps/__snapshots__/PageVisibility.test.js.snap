@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Page Visibility with render props 1`] = `
+<DocumentFragment>
+  <h1>
+    Using Render Props
+  </h1>
+  <p>
+    Page Visibility: 
+    <span>
+      true
+    </span>
+  </p>
+</DocumentFragment>
+`;
